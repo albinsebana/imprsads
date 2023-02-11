@@ -1,0 +1,53 @@
+.image-banner {
+    background-image: url('pexels-lukas-574071.jpg');
+    height: 700px;
+    background-position: center;
+     background-repeat: no-repeat; 
+     background-size: cover;
+  } 
+  .My-tex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+
+  }
+  .ul-div{
+    padding: 20px;
+    
+  }
+  .web-div{
+    align-items: center;
+  }
+
+
+
+  .bulleted-list {
+    background-image: url('gry.jpg');
+    padding: 220px;
+  }
+
+  .bulleted-list ul {
+    display: inline;
+
+  }
+
+  .bulleted-list li {
+    margin-bottom: 10px;
+  }
+
+  .form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    width: 50%;
+  }
+
+  .form-field {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+  }
